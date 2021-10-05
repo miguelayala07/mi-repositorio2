@@ -8,7 +8,7 @@ $(function () {
     }
 
     /**
-     * URL/Dirección web válida
+     * URL/Dirección web válidar
      */
     var isValidUrl = function () {
         var url = document.getElementById('url');
